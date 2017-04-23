@@ -1,0 +1,24 @@
+# @BertieDent
+# If threaded; numberOfEntries * numberOfThreads
+# Config could be updated if more information is required for different raffles
+# Birthday is UK format DD/MM/YYYY
+# Add 1/2 for half sizes
+
+[settings]
+threaded = True
+numberOfThreads = 10
+numberOfEntries = 1000
+
+[details]
+firstName = John
+lastName = Doe
+email = johndoe@gmail.com
+phone = 01234567890
+address = 1 Street Name
+city = London
+state = London
+zip = N17 1XS
+country = United Kingdom
+size = 9 1/2
+birthday = 01/01/1995
+
