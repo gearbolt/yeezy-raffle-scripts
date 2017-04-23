@@ -1,6 +1,6 @@
 # yeezy-raffle-scripts
-Scripts to bot sites raffle entries.
+Scripts to bot sites raffle entries
 
 # Setup
-Configure config.cfg as desired.
+Configure config.cfg.example as desired and rename to config.cfg
 Run desired script in Python 3+
