@@ -1,5 +1,6 @@
 # yeezy-raffle-scripts
 Scripts to bot sites raffle entries
+Will be adding sites throughout the evening.
 
 # Setup
 Download raffle scripts, config file, and settings file
